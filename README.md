@@ -4,10 +4,9 @@
 
 ## 🔧 My programming Languages
 
-<img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
-<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=javascript" alt="JS">
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JS">
 
 ## 📊 GitHub Stats
 
