@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 # My name is Nico 🤙
 
 ## 🔧 My programming Languages
