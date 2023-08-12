@@ -1,3 +1,4 @@
+<div align="left">
 # My name is Nico 🤙
 
 ## 🔧 My programming Languages
@@ -17,3 +18,4 @@
 ## 🌐 Contact me
 
 Discord: @staendi
+</div>
