@@ -14,10 +14,6 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staendii&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-## 🌐 Connect with Me
+## 🌐 Contact me
 
-Let's connect and discuss exciting projects! 🚀
-
-Telegram & Discord: bostondebreli
-
-</div>
+Discord: @staendi
