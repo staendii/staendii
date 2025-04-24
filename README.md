@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hey, I'm Nico! 🤙
+# Hey, I'm Nico!
 
 I'm a **self-taught Software Engineer** interested in building **clean**, **performant** and **secure** code.
 
