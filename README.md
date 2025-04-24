@@ -7,7 +7,7 @@ I like writing code that’s **clean**, **fast**, and doesn’t fall apart when 
 
 ---
 
-## 🧱 stack I actually use
+## stack I actually use
 
 ### frontend
 - React – default go-to
