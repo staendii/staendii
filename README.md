@@ -1,27 +1,31 @@
 <div align="left">
 
-# Hey, I'm Nico!
+# yo, I’m Nico
 
-I'm a **self-taught Software Engineer** interested in building **clean**, **performant** and **secure** code.
+Self-taught dev.  
+I like writing code that’s **clean**, **fast**, and doesn’t fall apart when you look at it sideways.
 
 ---
 
-## 🔧 My Tech Stack
+## 🧱 stack I actually use
 
-### **Frontend Development**
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/ShadCN-black?style=flat-square&logo=shadcn&logoColor=white" alt="ShadCN">
-</div>
+### frontend
+- React – default go-to
+- Vue – used it, still like it
+- Next.js – server-side stuff, no drama
+- ShadCN – makes building UI way less annoying
 
-### **Backend Development**
-<div>
-  <img src="https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-</div>
+### backend
+- TypeScript – don’t ship JS without types
+- Lua – lightweight and weirdly satisfying
+- JavaScript – because you kind of have to
+- C# – for the grown-up stuff
+
+---
+
+## some things I care about
+- readable code > clever code  
+- performance matters  
+- don’t ship what you wouldn’t use yourself  
 
 </div>
