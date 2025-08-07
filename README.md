@@ -23,7 +23,7 @@ Self-taught dev. I write code that’s clean and fast
 
 ---
 
-## i care abt
+## important
 
 - readable > clever
 - speed matters
