@@ -2,30 +2,31 @@
 
 # yo, I’m Nico
 
-Self-taught dev.  
-I like writing code that’s **clean**, **fast**, and doesn’t fall apart when you look at it sideways.
+Self-taught dev. I write code that’s clean and fast
 
 ---
 
-## stack I actually use
+## stack
 
-### frontend
-- React – default go-to
-- Vue – used it, still like it
-- Next.js – server-side stuff, no drama
-- ShadCN – makes building UI way less annoying
+**frontend**
+- React (default)
+- Vue (learned, not using anymore)
+- Next.js (server stuff)
+- ShadCN (best ui lib)
 
-### backend
-- TypeScript – don’t ship JS without types
-- Lua – lightweight and weirdly satisfying
-- JavaScript – because you kind of have to
-- C# – for the grown-up stuff
+**backend**  
+- TypeScript (no JS without types)
+- Lua (light & fun)
+- JavaScript (because... yeah)
+- C# (sometimes)
+- C++ (rarely)
 
 ---
 
-## some things I care about
-- readable code > clever code  
-- performance matters  
-- don’t ship what you wouldn’t use yourself  
+## i care abt
+
+- readable > clever
+- speed matters
+- if I wouldn’t use it, I won’t ship it
 
 </div>
