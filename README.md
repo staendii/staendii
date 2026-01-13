@@ -24,4 +24,4 @@ Figma, Photoshop, Illustrator, After Effects
 
 ## Activity
 
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=staendii&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=staendii&theme=dark&hide_border=false)
