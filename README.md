@@ -14,7 +14,7 @@ React, Vue, Next.js, Nuxt, Vite, Tailwind CSS, Radix UI, shadcn/ui
 Node.js, Express, .NET
 
 **Databases**:
-PostgreSQL, MySQL, MariaDB, Prisma
+PostgreSQL, MySQL, MariaDB, Prisma, Drizzle
 
 **Tooling**:
 Git, GitHub, Gitea, GitHub Actions, ESLint, Prettier, Postman
